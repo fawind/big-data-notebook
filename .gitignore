@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 
+# ipython checkpoints
+.ipynb_checkpoints
+
 # C extensions
 *.so
 
